@@ -1,3 +1,7 @@
+<p align="left">Hello World!!<br><br>Angehender Softwareentwickler bei der Developer Akademie mit Fokus auf Webentwicklung, sauberem Code und kontinuierlichem Lernen.<br>Ich baue Projekte Schritt für Schritt auf, lerne täglich neue Technologien kennen und arbeite daran, meine Skills in HTML, CSS, JavaScript und später DevSecOps zu meistern.<br>Mein Ziel: Vom Anfänger zum professionellen Entwickler  mit Leidenschaft, Disziplin und echter Motivation.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielDance&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
